@@ -1,0 +1,18 @@
+# Build output
+target/
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Word lock files
+~$*
+
+# backup of the previous Java version (safe to delete)
+_old_version_backup/
