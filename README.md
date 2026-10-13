@@ -81,12 +81,7 @@ Tested on MariaDB 10.11 (the XAMPP database); also works on MySQL 8.0.16+.
 
 ### Screenshots
 
-All screenshots of the app running are in [`gui-screenshots/`](gui-screenshots/).
-
-| | |
-|---|---|
-| ![Login](gui-screenshots/01-login.png) Login with demo accounts | ![Manager overview](gui-screenshots/02-manager-overview.png) Manager overview with live map and weather |
-| ![Collector tasks](gui-screenshots/03-collector-my-tasks.png) Collector: shifts and route | ![Recycling plant](gui-screenshots/07-recycling-plant.png) Recycling plant stages |
+Some screenshots of the app running are in [`gui-screenshots/`](gui-screenshots/).
 
 ### Design patterns in the code
 
